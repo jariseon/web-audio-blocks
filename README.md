@@ -1,2 +1,2 @@
 # web-audio-blocks
-wabs - collection of reusable js/wasm audioworklets and gui widgets
+work in progress. for now pls check this [demo](https://webaudiomodules.org/demos/jariseon/logue/)
